@@ -1,0 +1,5 @@
+{
+  "name": "Association Management Dashboard",
+  "description": "A comprehensive dashboard to manage an association's project proposals, human resources, and project evaluations using indicators, powered by Gemini AI for intelligent assistance.",
+  "requestFramePermissions": []
+}
